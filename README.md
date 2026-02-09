@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Mlkshah
 
-<!--
-**Mlkshah/Mlkshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mohammad Matin Malekshah** — Aspiring Cybersecurity & AI Engineer  
 
-Here are some ideas to get you started:
+Learning, building, and securing systems with a focus on responsible innovation and safe AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Interests
+- Offensive Security & Penetration Testing  
+- Malware Analysis & Reverse Engineering  
+- System & Network Security  
+- Machine Learning & Deep Learning  
+- Building secure and intelligent systems
+
+---
+
+## 🧠 Currently Learning
+- **Programming & Scripting:** Python, Bash, C  
+- **Systems & Networking:** Linux Administration, Networking Fundamentals  
+- **Security Labs:** Exploit Development, Vulnerability Research  
+- **AI & ML:** PyTorch, NumPy, Deep Learning, Safe AI  
+
+---
+
+## 🎯 Goals
+- Become a top-tier cybersecurity specialist  
+- Master AI engineering  
+- Build meaningful open-source projects  
+- Contribute to academic research in security & AI  
+
+---
+
+## 📫 Connect with me
+- GitHub: [Mlkshah](https://github.com/Mlkshah)  
+- Email: *(optional, اگر خواستی اضافه کنی)*  
+
+---
+
+> “Learning is the first step to mastery — security and intelligence are the tools to shape the future.”
