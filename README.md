@@ -23,11 +23,12 @@ Learning, building, and securing systems with a focus on responsible innovation 
 
 ---
 
-## 🎯 Goals
+### 🎯 Goals
 - Become a top-tier cybersecurity specialist  
-- Master AI engineering  
+- Achieve advanced practical skills in AI engineering  
 - Build meaningful open-source projects  
-- Contribute to academic research in security & AI  
+- Contribute to research and innovation in security & AI
+ 
 
 ---
 
